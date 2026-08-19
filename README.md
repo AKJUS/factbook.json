@@ -9,7 +9,8 @@ The End!  Believe it or not - on the order of the new US administration the CIA 
 see the CIA Story ["Spotlighting The World Factbook as We Bid a Fond Farewell"](https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/).  
 
 
-> [!Tip]  For (alternate) ongoing (or new) online (factbook) archive mirros / copies
+> [!TIP]  
+> For (alternate) ongoing or new (factbook) online archive mirros / copies
 >  or alternative world almanacs / country profiles,
 >  ask your a.i. of choice e.g. Q: any alternatives to the closed-down cia world factbook?
 
