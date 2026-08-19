@@ -10,7 +10,7 @@ see the CIA Story ["Spotlighting The World Factbook as We Bid a Fond Farewell"](
 
 
 > [!TIP]  
-> For (alternate) ongoing or new (factbook) online archive mirrors / copies
+> For (alternate) ongoing or new (factbook) archive mirrors / copies
 >  or alternative world almanacs / country profiles,
 >  ask your a.i. of choice e.g. Q: any alternatives to the closed-down cia world factbook?
 
