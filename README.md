@@ -547,6 +547,17 @@ Q: Anybody using these datasets?  I don't know really. Add your project here - y
 > For example, I visualized the GDP by PPP of world countries with a treemap, which can lead to new insights.
 
 
+[Jonathan Koff](https://jkoff.ca) writes:
+
+> We made a country guessing game called [CountryGuesser](https://countryguesser.jkoff.ca) that
+> teaches you about the world using factbook data as a primary data source.
+> 
+> We extracted relevant fields such as area, population, and some fun ones like alcohol_liters_per_capita,
+> did some preprocessing e.g. to parse certain fields or calculate global rankings, and we statically compiled
+> the resulting data into the backend binary.
+>
+> We hope to add more data sources over time to make it a more immersive experience, but
+> I already find it fun and educational!
 
 
 ##  License / Public Domain Dedication
